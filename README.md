@@ -21,14 +21,14 @@ https://huggingface.co/collections/google/gemma-4
 
 * **Instruction Tuned (IT) 版本**（适合对话和任务执行）：
     * [`google/gemma-4-31B-it`](https://huggingface.co/google/gemma-4-31B-it)
-    * `google/gemma-4-26B-A4B-it`
-    * `google/gemma-4-E4B-it`
-    * `google/gemma-4-E2B-it`
+    * [`google/gemma-4-26B-A4B-it`](https://huggingface.co/google/gemma-4-26B-A4B-it)
+    * [`google/gemma-4-E4B-it`](https://huggingface.co/google/gemma-4-E4B-it)
+    * [`google/gemma-4-E2B-it`](https://huggingface.co/google/gemma-4-E2B-it)
 * **Base / Pre-trained (PT) 版本**（适合进一步微调）：
-    * `google/gemma-4-31B`
-    * `google/gemma-4-26B-A4B`
-    * `google/gemma-4-E4B`
-    * `google/gemma-4-E2B`
+    * [`google/gemma-4-31B`](https://huggingface.co/google/gemma-4-31B)
+    * [`google/gemma-4-26B-A4B`](https://huggingface.co/google/gemma-4-26B-A4B)
+    * [`google/gemma-4-E4B`](https://huggingface.co/google/gemma-4-E4B)
+    * [`google/gemma-4-E2B`](https://huggingface.co/google/gemma-4-E2B)
 
 ---
 
